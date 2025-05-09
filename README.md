@@ -1,6 +1,6 @@
 # A Power BI project designed for business intelligence, enabling Data visualization and insightful Decision-making.
 
-# 📌 Overview:
+# Overview:
 
 This project includes interactive dashboards and custom reports to analyze key business metrics effectively.
 
