@@ -1,4 +1,4 @@
-# A Power BI project designed for business intelligence, enabling data visualization and insightful decision-making.
+# A Power BI project designed for business intelligence, enabling Data visualization and insightful Decision-making.
 
 # 📌 Overview:
 
