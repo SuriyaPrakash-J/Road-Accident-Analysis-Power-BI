@@ -19,7 +19,7 @@ BI-PROj.pbix → Power BI report file containing visualizations, data models, an
 Power BI → Data visualization and reporting
 Excel / SQL (if applicable) → Data preprocessing
 
-# 📌 How to Use:
+# How to Use:
 
 Open the .pbix file in Power BI Desktop.
 Explore the pre-built dashboards and reports.
