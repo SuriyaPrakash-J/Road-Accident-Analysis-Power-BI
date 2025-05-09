@@ -4,7 +4,7 @@
 
 This project includes interactive dashboards and custom reports to analyze key business metrics effectively.
 
-# 🚀 Features:
+# Features:
 
 Dynamic dashboards for real-time data insights
 Custom reports with key performance indicators
